@@ -1,14 +1,14 @@
 body {
     margin: 0;
-    background-image:url("https://i.pinimg.com/originals/64/29/29/642929110f2df749f6d443d5bed0831b.jpg");
-    background-size: cover;
+    background-image:url(https://wallpaper.forfun.com/fetch/e0/e0d80555aaa82494f2d30fcab6daf465.jpeg);
+    background-size:cover;
 }
 
 .container {
     margin:0;
     color: #EEEEEE;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     text-shadow: 0px 0px 1px #000000;
@@ -20,6 +20,7 @@ flex-direction: column;
 }
 
 #right-side {
+    margin: 0 30px 0  0;
     display:flex;
     flex-direction: column;
     justify-content: space-around;
@@ -55,7 +56,7 @@ flex-direction: column;
 .score {
     margin:20px 0 0 0;
     padding:0;
-    color: #F94F6D;
+    color: white;
     font-size: 100px;
     font-family: 'Cursed Timer ULiL', sans-serif;
 }
@@ -63,16 +64,16 @@ flex-direction: column;
 #button-container {
     width: 155px;
     height: 45px;
-    margin: 20px 0 0 41px;
+    margin: 25px 0 0 41px;
 }
 
 .button-layout {
-    color: #9AABD8;
+    color: white;
     font-size: 18px;
     font-family: 'Cursed Timer ULiL', sans-serif;
     margin:0 0 0 2px;
-    background-color: #1B244A;
-    border:1px solid #9AABD8;
+    background-color: black;
+    border:3px solid white;
     border-radius: 5px;
     width: 45px;
     height: 45px;
