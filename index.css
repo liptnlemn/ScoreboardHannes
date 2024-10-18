@@ -8,7 +8,7 @@ body {
     margin:0;
     color: #EEEEEE;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     text-shadow: 0px 0px 1px #000000;
